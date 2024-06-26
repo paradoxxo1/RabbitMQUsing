@@ -1,0 +1,17 @@
+D:\RabbitMQ\Topics\Topics.EmitLog\bin\Debug\net8.0\Topics.EmitLog.exe
+D:\RabbitMQ\Topics\Topics.EmitLog\bin\Debug\net8.0\Topics.EmitLog.deps.json
+D:\RabbitMQ\Topics\Topics.EmitLog\bin\Debug\net8.0\Topics.EmitLog.runtimeconfig.json
+D:\RabbitMQ\Topics\Topics.EmitLog\bin\Debug\net8.0\Topics.EmitLog.dll
+D:\RabbitMQ\Topics\Topics.EmitLog\bin\Debug\net8.0\Topics.EmitLog.pdb
+D:\RabbitMQ\Topics\Topics.EmitLog\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\RabbitMQ\Topics\Topics.EmitLog\obj\Debug\net8.0\Topics.EmitLog.csproj.AssemblyReference.cache
+D:\RabbitMQ\Topics\Topics.EmitLog\obj\Debug\net8.0\Topics.EmitLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMQ\Topics\Topics.EmitLog\obj\Debug\net8.0\Topics.EmitLog.AssemblyInfoInputs.cache
+D:\RabbitMQ\Topics\Topics.EmitLog\obj\Debug\net8.0\Topics.EmitLog.AssemblyInfo.cs
+D:\RabbitMQ\Topics\Topics.EmitLog\obj\Debug\net8.0\Topics.EmitLog.csproj.CoreCompileInputs.cache
+D:\RabbitMQ\Topics\Topics.EmitLog\obj\Debug\net8.0\Topics.E.53CBF60B.Up2Date
+D:\RabbitMQ\Topics\Topics.EmitLog\obj\Debug\net8.0\Topics.EmitLog.dll
+D:\RabbitMQ\Topics\Topics.EmitLog\obj\Debug\net8.0\refint\Topics.EmitLog.dll
+D:\RabbitMQ\Topics\Topics.EmitLog\obj\Debug\net8.0\Topics.EmitLog.pdb
+D:\RabbitMQ\Topics\Topics.EmitLog\obj\Debug\net8.0\Topics.EmitLog.genruntimeconfig.cache
+D:\RabbitMQ\Topics\Topics.EmitLog\obj\Debug\net8.0\ref\Topics.EmitLog.dll

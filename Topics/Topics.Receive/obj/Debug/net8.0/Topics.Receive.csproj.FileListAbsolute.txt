@@ -1,0 +1,17 @@
+D:\RabbitMQ\Topics\Topics.Receive\bin\Debug\net8.0\Topics.Receive.exe
+D:\RabbitMQ\Topics\Topics.Receive\bin\Debug\net8.0\Topics.Receive.deps.json
+D:\RabbitMQ\Topics\Topics.Receive\bin\Debug\net8.0\Topics.Receive.runtimeconfig.json
+D:\RabbitMQ\Topics\Topics.Receive\bin\Debug\net8.0\Topics.Receive.dll
+D:\RabbitMQ\Topics\Topics.Receive\bin\Debug\net8.0\Topics.Receive.pdb
+D:\RabbitMQ\Topics\Topics.Receive\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\RabbitMQ\Topics\Topics.Receive\obj\Debug\net8.0\Topics.Receive.csproj.AssemblyReference.cache
+D:\RabbitMQ\Topics\Topics.Receive\obj\Debug\net8.0\Topics.Receive.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMQ\Topics\Topics.Receive\obj\Debug\net8.0\Topics.Receive.AssemblyInfoInputs.cache
+D:\RabbitMQ\Topics\Topics.Receive\obj\Debug\net8.0\Topics.Receive.AssemblyInfo.cs
+D:\RabbitMQ\Topics\Topics.Receive\obj\Debug\net8.0\Topics.Receive.csproj.CoreCompileInputs.cache
+D:\RabbitMQ\Topics\Topics.Receive\obj\Debug\net8.0\Topics.R.E7C992C3.Up2Date
+D:\RabbitMQ\Topics\Topics.Receive\obj\Debug\net8.0\Topics.Receive.dll
+D:\RabbitMQ\Topics\Topics.Receive\obj\Debug\net8.0\refint\Topics.Receive.dll
+D:\RabbitMQ\Topics\Topics.Receive\obj\Debug\net8.0\Topics.Receive.pdb
+D:\RabbitMQ\Topics\Topics.Receive\obj\Debug\net8.0\Topics.Receive.genruntimeconfig.cache
+D:\RabbitMQ\Topics\Topics.Receive\obj\Debug\net8.0\ref\Topics.Receive.dll
