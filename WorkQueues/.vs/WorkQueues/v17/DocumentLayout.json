@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "WorkQueues.Worker\\Program.cs",
               "ToolTip": "D:\\RabbitMQ\\WorkQueues\\WorkQueues.Worker\\Program.cs",
               "RelativeToolTip": "WorkQueues.Worker\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCQAAAA7AAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T16:07:55.758Z",
               "EditorCaption": ""
@@ -45,9 +45,10 @@
               "RelativeDocumentMoniker": "WorkQueues.NewTask\\Program.cs",
               "ToolTip": "D:\\RabbitMQ\\WorkQueues\\WorkQueues.NewTask\\Program.cs",
               "RelativeToolTip": "WorkQueues.NewTask\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwC0AAABNAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T16:02:38.907Z"
+              "WhenOpened": "2024-06-26T16:02:38.907Z",
+              "EditorCaption": ""
             }
           ]
         }

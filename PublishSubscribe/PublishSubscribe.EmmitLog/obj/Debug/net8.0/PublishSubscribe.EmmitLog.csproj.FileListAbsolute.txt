@@ -1,0 +1,17 @@
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\bin\Debug\net8.0\PublishSubscribe.EmmitLog.exe
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\bin\Debug\net8.0\PublishSubscribe.EmmitLog.deps.json
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\bin\Debug\net8.0\PublishSubscribe.EmmitLog.runtimeconfig.json
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\bin\Debug\net8.0\PublishSubscribe.EmmitLog.dll
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\bin\Debug\net8.0\PublishSubscribe.EmmitLog.pdb
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\obj\Debug\net8.0\PublishSubscribe.EmmitLog.csproj.AssemblyReference.cache
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\obj\Debug\net8.0\PublishSubscribe.EmmitLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\obj\Debug\net8.0\PublishSubscribe.EmmitLog.AssemblyInfoInputs.cache
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\obj\Debug\net8.0\PublishSubscribe.EmmitLog.AssemblyInfo.cs
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\obj\Debug\net8.0\PublishSubscribe.EmmitLog.csproj.CoreCompileInputs.cache
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\obj\Debug\net8.0\PublishS.C65B0861.Up2Date
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\obj\Debug\net8.0\PublishSubscribe.EmmitLog.dll
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\obj\Debug\net8.0\refint\PublishSubscribe.EmmitLog.dll
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\obj\Debug\net8.0\PublishSubscribe.EmmitLog.pdb
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\obj\Debug\net8.0\PublishSubscribe.EmmitLog.genruntimeconfig.cache
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.EmmitLog\obj\Debug\net8.0\ref\PublishSubscribe.EmmitLog.dll

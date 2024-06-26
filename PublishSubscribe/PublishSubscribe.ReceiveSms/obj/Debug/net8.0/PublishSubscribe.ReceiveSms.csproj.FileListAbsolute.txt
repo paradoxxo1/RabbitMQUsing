@@ -1,0 +1,17 @@
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\bin\Debug\net8.0\PublishSubscribe.ReceiveSms.exe
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\bin\Debug\net8.0\PublishSubscribe.ReceiveSms.deps.json
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\bin\Debug\net8.0\PublishSubscribe.ReceiveSms.runtimeconfig.json
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\bin\Debug\net8.0\PublishSubscribe.ReceiveSms.dll
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\bin\Debug\net8.0\PublishSubscribe.ReceiveSms.pdb
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\obj\Debug\net8.0\PublishSubscribe.ReceiveSms.csproj.AssemblyReference.cache
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\obj\Debug\net8.0\PublishSubscribe.ReceiveSms.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\obj\Debug\net8.0\PublishSubscribe.ReceiveSms.AssemblyInfoInputs.cache
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\obj\Debug\net8.0\PublishSubscribe.ReceiveSms.AssemblyInfo.cs
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\obj\Debug\net8.0\PublishSubscribe.ReceiveSms.csproj.CoreCompileInputs.cache
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\obj\Debug\net8.0\PublishS.9B52D66A.Up2Date
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\obj\Debug\net8.0\PublishSubscribe.ReceiveSms.dll
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\obj\Debug\net8.0\refint\PublishSubscribe.ReceiveSms.dll
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\obj\Debug\net8.0\PublishSubscribe.ReceiveSms.pdb
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\obj\Debug\net8.0\PublishSubscribe.ReceiveSms.genruntimeconfig.cache
+D:\RabbitMQ\PublishSubscribe\PublishSubscribe.ReceiveSms\obj\Debug\net8.0\ref\PublishSubscribe.ReceiveSms.dll

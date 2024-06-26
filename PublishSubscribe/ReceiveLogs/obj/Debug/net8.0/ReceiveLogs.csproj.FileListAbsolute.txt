@@ -1,0 +1,17 @@
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\bin\Debug\net8.0\ReceiveLogs.exe
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\bin\Debug\net8.0\ReceiveLogs.deps.json
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\bin\Debug\net8.0\ReceiveLogs.runtimeconfig.json
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\bin\Debug\net8.0\ReceiveLogs.dll
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\bin\Debug\net8.0\ReceiveLogs.pdb
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.csproj.AssemblyReference.cache
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.AssemblyInfoInputs.cache
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.AssemblyInfo.cs
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.csproj.CoreCompileInputs.cache
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\obj\Debug\net8.0\ReceiveL.F44B7BE1.Up2Date
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.dll
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\obj\Debug\net8.0\refint\ReceiveLogs.dll
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.pdb
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.genruntimeconfig.cache
+D:\RabbitMQ\PublishSubscribe\ReceiveLogs\obj\Debug\net8.0\ref\ReceiveLogs.dll

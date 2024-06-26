@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RabbitMQ\\PublishSubscribe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34E1EFA8-D1B6-400A-A8D9-3914B103D19E}|PublishSubscribe.EmmitLog\\PublishSubscribe.EmmitLog.csproj|d:\\rabbitmq\\publishsubscribe\\publishsubscribe.emmitlog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E1EFA8-D1B6-400A-A8D9-3914B103D19E}|PublishSubscribe.EmmitLog\\PublishSubscribe.EmmitLog.csproj|solutionrelative:publishsubscribe.emmitlog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BB0801-E45D-42B5-BF69-2C78E9D94F49}|PublishSubscribe.ReceiveSms\\PublishSubscribe.ReceiveSms.csproj|d:\\rabbitmq\\publishsubscribe\\publishsubscribe.receivesms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BB0801-E45D-42B5-BF69-2C78E9D94F49}|PublishSubscribe.ReceiveSms\\PublishSubscribe.ReceiveSms.csproj|solutionrelative:publishsubscribe.receivesms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACF73A8-8D8F-4342-89BF-416EB709EE78}|ReceiveLogs\\ReceiveLogs.csproj|d:\\rabbitmq\\publishsubscribe\\receivelogs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACF73A8-8D8F-4342-89BF-416EB709EE78}|ReceiveLogs\\ReceiveLogs.csproj|solutionrelative:receivelogs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RabbitMQ\\PublishSubscribe\\ReceiveLogs\\Program.cs",
+              "RelativeDocumentMoniker": "ReceiveLogs\\Program.cs",
+              "ToolTip": "D:\\RabbitMQ\\PublishSubscribe\\ReceiveLogs\\Program.cs",
+              "RelativeToolTip": "ReceiveLogs\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:42:05.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RabbitMQ\\PublishSubscribe\\PublishSubscribe.ReceiveSms\\Program.cs",
+              "RelativeDocumentMoniker": "PublishSubscribe.ReceiveSms\\Program.cs",
+              "ToolTip": "D:\\RabbitMQ\\PublishSubscribe\\PublishSubscribe.ReceiveSms\\Program.cs",
+              "RelativeToolTip": "PublishSubscribe.ReceiveSms\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:36:51.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RabbitMQ\\PublishSubscribe\\PublishSubscribe.EmmitLog\\Program.cs",
+              "RelativeDocumentMoniker": "PublishSubscribe.EmmitLog\\Program.cs",
+              "ToolTip": "D:\\RabbitMQ\\PublishSubscribe\\PublishSubscribe.EmmitLog\\Program.cs",
+              "RelativeToolTip": "PublishSubscribe.EmmitLog\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:30:27.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
