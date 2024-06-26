@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkQueues.NewTask", "WorkQueues.NewTask\WorkQueues.NewTask.csproj", "{ED387A07-C2DC-42AC-AE12-0874E9C12D91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkQueues.Worker", "WorkQueues.Worker\WorkQueues.Worker.csproj", "{D47A83B2-2DF8-4638-962A-6D15A38B2501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED387A07-C2DC-42AC-AE12-0874E9C12D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED387A07-C2DC-42AC-AE12-0874E9C12D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED387A07-C2DC-42AC-AE12-0874E9C12D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED387A07-C2DC-42AC-AE12-0874E9C12D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47A83B2-2DF8-4638-962A-6D15A38B2501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47A83B2-2DF8-4638-962A-6D15A38B2501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47A83B2-2DF8-4638-962A-6D15A38B2501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47A83B2-2DF8-4638-962A-6D15A38B2501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A782074-8499-4C93-A19B-9808387A0B66}
+	EndGlobalSection
+EndGlobal

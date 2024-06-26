@@ -1,0 +1,17 @@
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\bin\Debug\net8.0\HelloWorld.Receive.exe
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\bin\Debug\net8.0\HelloWorld.Receive.deps.json
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\bin\Debug\net8.0\HelloWorld.Receive.runtimeconfig.json
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\bin\Debug\net8.0\HelloWorld.Receive.dll
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\bin\Debug\net8.0\HelloWorld.Receive.pdb
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\obj\Debug\net8.0\HelloWorld.Receive.csproj.AssemblyReference.cache
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\obj\Debug\net8.0\HelloWorld.Receive.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\obj\Debug\net8.0\HelloWorld.Receive.AssemblyInfoInputs.cache
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\obj\Debug\net8.0\HelloWorld.Receive.AssemblyInfo.cs
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\obj\Debug\net8.0\HelloWorld.Receive.csproj.CoreCompileInputs.cache
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\obj\Debug\net8.0\HelloWor.CE7C9C9B.Up2Date
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\obj\Debug\net8.0\HelloWorld.Receive.dll
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\obj\Debug\net8.0\refint\HelloWorld.Receive.dll
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\obj\Debug\net8.0\HelloWorld.Receive.pdb
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\obj\Debug\net8.0\HelloWorld.Receive.genruntimeconfig.cache
+D:\RabbitMQ\HelloWorld\HelloWorld.Receive\obj\Debug\net8.0\ref\HelloWorld.Receive.dll

@@ -1,0 +1,17 @@
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\bin\Debug\net8.0\HelloWorld.Send.exe
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\bin\Debug\net8.0\HelloWorld.Send.deps.json
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\bin\Debug\net8.0\HelloWorld.Send.runtimeconfig.json
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\bin\Debug\net8.0\HelloWorld.Send.dll
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\bin\Debug\net8.0\HelloWorld.Send.pdb
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\obj\Debug\net8.0\HelloWorld.Send.csproj.AssemblyReference.cache
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\obj\Debug\net8.0\HelloWorld.Send.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\obj\Debug\net8.0\HelloWorld.Send.AssemblyInfoInputs.cache
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\obj\Debug\net8.0\HelloWorld.Send.AssemblyInfo.cs
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\obj\Debug\net8.0\HelloWorld.Send.csproj.CoreCompileInputs.cache
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\obj\Debug\net8.0\HelloWor.5105E512.Up2Date
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\obj\Debug\net8.0\HelloWorld.Send.dll
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\obj\Debug\net8.0\refint\HelloWorld.Send.dll
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\obj\Debug\net8.0\HelloWorld.Send.pdb
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\obj\Debug\net8.0\HelloWorld.Send.genruntimeconfig.cache
+D:\RabbitMQ\HelloWorld\HelloWorld.Send\obj\Debug\net8.0\ref\HelloWorld.Send.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uCiT1bg/SFt/yc754Y0Uid4cOWT7U78btiFMPHcTC3CAylAkG+knppiM//W1y7fLrhvoM1VEYa9rwX1Gsb9Vsg==",
+  "success": true,
+  "projectFilePath": "D:\\RabbitMQ\\WorkQueues\\WorkQueues.NewTask\\WorkQueues.NewTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

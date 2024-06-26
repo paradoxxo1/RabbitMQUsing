@@ -1,0 +1,17 @@
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\bin\Debug\net8.0\WorkQueues.Worker.exe
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\bin\Debug\net8.0\WorkQueues.Worker.deps.json
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\bin\Debug\net8.0\WorkQueues.Worker.runtimeconfig.json
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\bin\Debug\net8.0\WorkQueues.Worker.dll
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\bin\Debug\net8.0\WorkQueues.Worker.pdb
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\obj\Debug\net8.0\WorkQueues.Worker.csproj.AssemblyReference.cache
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\obj\Debug\net8.0\WorkQueues.Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\obj\Debug\net8.0\WorkQueues.Worker.AssemblyInfoInputs.cache
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\obj\Debug\net8.0\WorkQueues.Worker.AssemblyInfo.cs
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\obj\Debug\net8.0\WorkQueues.Worker.csproj.CoreCompileInputs.cache
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\obj\Debug\net8.0\WorkQueu.9CC21A3D.Up2Date
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\obj\Debug\net8.0\WorkQueues.Worker.dll
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\obj\Debug\net8.0\refint\WorkQueues.Worker.dll
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\obj\Debug\net8.0\WorkQueues.Worker.pdb
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\obj\Debug\net8.0\WorkQueues.Worker.genruntimeconfig.cache
+D:\RabbitMQ\WorkQueues\WorkQueues.Worker\obj\Debug\net8.0\ref\WorkQueues.Worker.dll
